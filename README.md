@@ -57,7 +57,6 @@ border=$(printf "+%${total_length}s+" | tr ' ' '-')
 echo "$border"
 printf "| %s |\n" "$text"
 echo "$border"
-```
 +----------------------+
 | Hello from RTU MIREA |
 +----------------------+
